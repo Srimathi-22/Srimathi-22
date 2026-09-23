@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Srimathi!
 
+
 🔭 **Currently working on:** Full Stack Development
 
 🌱 **Learning:** Python, Flask, AI/ML, Full Stack Development
@@ -11,7 +12,10 @@
 - 🔬 [Cogniscope](https://github.com/Srimathi-22/Cogniscope) — TypeScript Project
 - 🌤 [Weather Dashboard](https://github.com/Srimathi-22/weather_dashboard) — Flask + OpenWeatherMap API
 - 🔗 [URL Shortener](https://github.com/Srimathi-22/url_shortener) — Flask + SQLite
-
+-  [Explore AR](https://github.com/Ticsbs/Explore-AR)
+-  [Fail2learn](https://github.com/Srimathi-22/Fail2learn)
+-  [fastmem-lab](https://github.com/rmanolisha/fastmem-lab)
+-   
 🛠️ **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -22,4 +26,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 📫 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/srimathi-s-csbs-chennai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathi-s-csbs-chennai/)
